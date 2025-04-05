@@ -1,0 +1,6 @@
+Flask
+gspread
+oauth2client
+Flask-Limiter
+pyjwt
+gunicorn
